@@ -21,9 +21,14 @@ Optional für den Geschwindigkeitsmesser
 
 == Elektronisches Piano
 
+image:images/calliope-klavier.png[Calliope Klavier,300]
+image:images/calliope-klavier-prog.png[Programm zum Calliope Klavier,300,role="right"]
+
 === Der Aufbau 
 
 In diesem Projekt machen wir aus unserem Calliope ein elektronisches Piano. Dazu nutzen wir die 4 Eingabe Pins. Das sind die vergoldeten Ecken des 'Sterns' und den kleinen Lautsprecher.
+
+
 Hier schließen wir jeweils an jeden Pin mit einer Nummer (0 - 3) eine Krokodilklemme an. Auf der jeweils anderen Seite der Klemme wird ein leitender Gegenstand geklemmt, z.B. ein Streifen Alufolie, ein Metalllöffel, ein Schlüsselbund, ...
 Um den Stromkreis zu schließen klemmen wir eine Krokodilklemme an den Minus Pin und auf der anderen Seite wieder an einen Streifen Alufolie.
 
@@ -32,14 +37,18 @@ Um den Stromkreis zu schließen klemmen wir eine Krokodilklemme an den Minus Pin
 Das Programm ist zunächst sehr einfach, kann aber beliebig erweitert werden. Wenn ein Eingabe Pin gedrückt wird, spiele eine bestimmte Note. 
 
 
-
 Da wir 4 Eingabe Pins haben können wir schon mal 4 unterschiedliche Noten abspielen. Und durch Drücken oder Loslasssen z.B. von Knopf B können wir schon doppelt so viele Noten spielen und haben damit eine Oktave. Damit lassen sich schon kleine Lieder spielen wie 'Alle meine Entchen' oder 'Ode an die Freude'.
 
 == Geschwindigkeitsmesser
 
+image:images/calliope-blitzer.png[Calliope Geschwindigkeitsmesser,300]
+image:images/calliope-blitzer-prog.png[Programm zum Calliope Geschwindigkeitsmesser,300,role="right"]
+
 === Der Aufbau
 
 Mit diesem Projekt bauen wir einen 'Blitzer' aus dem Straßenverkehr nach. Dazu nutzen wir zwei Eingabe Pins für den Fotowiderstand, das 5x5 Display zum Anzeigen der Geschwindigkeit und die RGB LED zum Anzeigen, ob zu schnell gefahren wurde.
+
+Hinweis: In dem abgebildeten Aufbau ist nur eine Laser LED und ein Fotowiderstand zu sehen. Ansonsten wurde das recht unübersichtlich.
 
 ==== Das Programm
 
