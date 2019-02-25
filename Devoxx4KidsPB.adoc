@@ -1,8 +1,8 @@
-= Calliope bei Devoxx4Kids
+== Calliope bei Devoxx4Kids
 
 Der https://calliope.cc[Calliope] ist ein kleiner Microcomputer, der einen schnellen und spielerischen Einstieg in die Welt der Programmierung bietet. Obwohl er bewusst einfach gehalten wurde enthält er bereits eine Menge Sensoren und Ausgabemöglichkeiten, um eindrucksvolle Programme zu schreiben. 
 
-Hier bei der Devoxx4Kids stellen wir zwei einfache Projekte mit dem Calliope vor, die neben dem Programmieren auch ein wenig 'Bastelei' erfordern.
+// Hier bei der Devoxx4Kids stellen wir zwei einfache Projekte mit dem Calliope vor, die neben dem Programmieren auch ein wenig 'Bastelei' erfordern.
 
 Zum Programmieren benötigt man einen Computer mit USB Anschluss und einen Zugang zum Internet. Die Umgebung zum Programmieren des Calliope läuft in jedem modernen Internetbrowser. Rufe https://calliope.cc auf und klicke auf 'Los gehts' und dann 'Editor'. Wir nutzen hier https://makecode.calliope.cc/ als Editor.
 
@@ -11,7 +11,7 @@ Zum Programmieren benötigt man einen Computer mit USB Anschluss und einen Zugan
 
 - 1 x Calliope mini (ca. 35€-40€)
 - 5 x Krokodilklemmen 50cm (ca. 4€ je 10Stk) 
-- Aluminiumfolie (ca. 2€ je Rolle)
+// - Aluminiumfolie (ca. 2€ je Rolle)
 
 Optional für den Geschwindigkeitsmesser
 
